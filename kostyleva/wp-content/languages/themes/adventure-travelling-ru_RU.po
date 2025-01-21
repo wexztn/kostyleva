@@ -1,0 +1,982 @@
+# Translation of Themes - Adventure Travelling in Russian
+# This file is distributed under the same license as the Themes - Adventure Travelling package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-21 10:52:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Adventure Travelling\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Adventure Travelling"
+msgstr "Adventure Travelling"
+
+#: inc/customizer.php:494
+msgid "Related Post Per Page"
+msgstr "Связанные записи на странице"
+
+#: inc/customizer.php:1466
+msgid "404 Page"
+msgstr "Страница 404"
+
+#: inc/customizer.php:1472
+msgid "Oops! That page cant be found."
+msgstr "Упс! Эту страницу невозможно найти."
+
+#: inc/customizer.php:1476 inc/customizer.php:1503
+msgid "Edit Title"
+msgstr "Изменить название"
+
+#: inc/customizer.php:1486 inc/customizer.php:1513
+msgid "Edit Text"
+msgstr "Изменить текст"
+
+#: inc/customizer.php:1258
+msgid "If the button in the main settings is off, control will not work."
+msgstr "Если кнопка в основных настройках выключена, управление не будет работать."
+
+#: inc/customizer.php:342
+msgid "category"
+msgstr "рубрика"
+
+#: inc/customizer.php:457
+msgid "Show / Hide Comment Form"
+msgstr "Контактная форма: показать/скрыть"
+
+#: inc/customizer.php:470 inc/customizer.php:1290
+msgid "Show / Hide Related Post"
+msgstr "Связанная запись: показать/скрыть"
+
+#: sidebar.php:12
+msgid "Search"
+msgstr "Поиск"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:26
+msgid "Archives"
+msgstr "Архивы"
+
+#: sidebar.php:33
+msgid "Tag Cloud"
+msgstr "Облако меток"
+
+#: inc/customizer.php:477 template-parts/post/related-post.php:25
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: inc/customizer.php:627
+msgid "Add Location Text"
+msgstr "Добавьте текст местоположения"
+
+#: inc/customizer.php:668
+msgid "Add Mail Text"
+msgstr "Добавить текст письма"
+
+#: inc/customizer.php:688
+msgid "Mail Contact Icon"
+msgstr "Значок почтового контакта"
+
+#: inc/customizer.php:1053
+msgid "Show / Hide Date"
+msgstr "Дата: показать/скрыть"
+
+#: inc/customizer.php:83
+msgid "Single Post Sidebar Position"
+msgstr "Позиция области виджетов отдельной записи"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: inc/customizer.php:63
+msgid "Post Sidebar Position"
+msgstr "Позиция области виджетов записи"
+
+#: inc/customizer.php:973
+msgid "Slider Content Layout"
+msgstr "Макет содержимого слайдера"
+
+#: inc/customizer.php:976
+msgid "LEFT-ALIGN"
+msgstr "ВЫРАВНИВАНИЕ СПРАВА"
+
+#: inc/customizer.php:977
+msgid "CENTER-ALIGN"
+msgstr "ВЫРАВНИВАНИЕ ПО ЦЕНТРУ"
+
+#: inc/customizer.php:978
+msgid "RIGHT-ALIGN"
+msgstr "ВЫРАВНИВАНИЕ СЛЕВА"
+
+#: inc/customizer.php:64
+msgid "This option work for blog page, archive page and search page.."
+msgstr "Эта опция работает для страницы блога, архива и поиска."
+
+#: inc/customizer.php:84
+msgid "This option work for single blog page"
+msgstr "Эта опция работает для отдельной страницы блога"
+
+#: inc/customizer.php:335
+msgid "Meta Order"
+msgstr "Порядок мета-данных"
+
+#: inc/customizer.php:336
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "Перетаскивайте элементы записи, чтобы изменить порядок, а также скрывайте и показывайте элементы по мере необходимости, нажимая на значок глаза."
+
+#: inc/customizer.php:339
+msgid "date"
+msgstr "дата"
+
+#: inc/customizer.php:340
+msgid "author"
+msgstr "автор"
+
+#: inc/customizer.php:341
+msgid "comment"
+msgstr "комментарий"
+
+#: inc/customizer.php:761
+msgid "Facebook Icon"
+msgstr "Значок Facebook"
+
+#: inc/customizer.php:795
+msgid "Twitter Icon"
+msgstr "Значок Twitter"
+
+#: inc/customizer.php:829
+msgid "Instagram Icon"
+msgstr "Значок Instagram"
+
+#: inc/customizer.php:863
+msgid "YouTube Icon"
+msgstr "Значок YouTube"
+
+#: inc/customizer.php:897
+msgid "Pinterest Icon"
+msgstr "Значок Pinterest"
+
+#: inc/controls/icon-changer.php:24
+msgctxt "placeholder"
+msgid "Search Icon"
+msgstr "Значок поиска"
+
+#: inc/customizer.php:638
+msgid "Location Icon"
+msgstr "Значок местоположения"
+
+#: inc/customizer.php:719
+msgid "Phone Icon"
+msgstr "Значок телефона"
+
+#: inc/customizer.php:1211
+msgid "Scroll Top Icon"
+msgstr "Значок Прокрутить вверх"
+
+#: inc/customizer.php:658
+msgid "Timming Icon"
+msgstr "Значок хронометража"
+
+#: inc/customizer.php:1126
+msgid "Footer Widget Columns"
+msgstr "Столбцы виджетов в подвале"
+
+#: inc/customizer.php:995
+msgid "Show / Hide Blog Section"
+msgstr "Раздел блога: показать/скрыть"
+
+#: inc/customizer.php:585
+msgid "Capitalize"
+msgstr "Заглавные буквы"
+
+#: inc/customizer.php:594
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+#: inc/customizer.php:584
+msgid "Lowercase"
+msgstr "Нижний регистр"
+
+#: inc/customizer.php:580
+msgid "Menu Text Transform"
+msgstr "Преобразование текста меню"
+
+#: inc/customizer.php:583
+msgid "Uppercase"
+msgstr "Верхний регистр"
+
+#: inc/customizer.php:536
+msgid "Menu Typography"
+msgstr "Типографика меню"
+
+#: inc/customizer.php:30
+msgid "Custom Home page"
+msgstr "Пользовательская главная страница"
+
+#: inc/customizer.php:739 inc/customizer.php:773 inc/customizer.php:807
+#: inc/customizer.php:841 inc/customizer.php:875
+msgid "Open in new tab"
+msgstr "Открыть в новой вкладке"
+
+#: inc/customizer.php:1449
+msgid "Show / Hide related product"
+msgstr "Сопутствующий товар: показать/скрыть"
+
+#: inc/customizer.php:1163
+msgid "Footer Widget Background Image"
+msgstr "Фоновое изображение виджета подвала"
+
+#: inc/customizer.php:1152
+msgid "Footer Widget Background Color"
+msgstr "Цвет фона виджетов в подвале"
+
+#: inc/customizer.php:1153
+msgid "It will change the complete footer widget backgorund color."
+msgstr "Это полностью изменит цвет фона виджетов в подвале."
+
+#: inc/customizer.php:116
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: inc/customizer.php:1329
+msgid "Show / Hide Site Tagline"
+msgstr "Краткое описание сайта: показать/скрыть"
+
+#: inc/customizer.php:959 inc/customizer.php:1279
+msgid "Show / Hide Slider Button"
+msgstr "Кнопка слайдера: показать/скрыть"
+
+#: inc/customizer.php:1257
+msgid "Mobile Responsive media"
+msgstr "Мобильная адаптация"
+
+#: inc/customizer.php:1302
+msgid "Site Title Font Size in PX"
+msgstr "Размер шрифта названия сайта в px"
+
+#: inc/customizer.php:1341
+msgid "Site Tagline Font Size in PX"
+msgstr "Размер шрифта краткого описания сайта в px"
+
+#: inc/customizer.php:908
+msgid "Social Icons Font Size in PX"
+msgstr "Размер шрифта значков соцсетей в px"
+
+#: inc/customizer.php:1367
+msgid "Here You Can Customize Your Logo Size"
+msgstr "Здесь вы можете настроить размер логотипа"
+
+#: template-parts/footer/site-info.php:12
+msgid "By Themespride"
+msgstr "от Themespride"
+
+#: inc/customizer.php:279
+msgid "TP Preloader Option"
+msgstr "Опция анимации загрузки"
+
+#: inc/customizer.php:299
+msgid "It will change the complete theme preloader ring 1 color in one click."
+msgstr "Это полностью изменит цвет 1-го кольца анимации загрузки темы за один клик."
+
+#: inc/customizer.php:308
+msgid "It will change the complete theme preloader ring 2 color in one click."
+msgstr "Это полностью изменит цвет 2-го кольца анимации загрузки темы за один клик."
+
+#: inc/customizer.php:317
+msgid "It will change the complete theme preloader bg color in one click."
+msgstr "Это полностью изменит цвет фона всего анимации загрузки темы за один клик."
+
+#: inc/customizer.php:616
+msgid "Show / Hide Search Option"
+msgstr "Опция поиска: показать/скрыть"
+
+#: inc/customizer.php:289
+msgid "Show / Hide Preloader Option"
+msgstr "Опция анимации загрузки: показать/скрыть"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: functions.php:531
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "Добро пожаловать! Спасибо за выбор %1$s!"
+
+#: functions.php:535
+msgid "Click here to get started with the theme set-up."
+msgstr "Нажмите здесь, чтобы начать настройку темы."
+
+#: inc/about-theme.php:41
+msgid "About Theme"
+msgstr "О теме"
+
+#: inc/about-theme.php:68
+msgid "Theme Info"
+msgstr "Информация о теме"
+
+#: inc/about-theme.php:74
+msgid "Rate this theme"
+msgstr "Оцените эту тему"
+
+#: inc/about-theme.php:90
+msgid "About"
+msgstr "О нас"
+
+#: inc/about-theme.php:94
+msgid "Changelog"
+msgstr "Журнал изменений"
+
+#: inc/about-theme.php:116
+msgid "Return to Updates"
+msgstr "Вернуться к обновлениям"
+
+#: inc/about-theme.php:116
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Вернуться в Консоль и Обновления"
+
+#: inc/about-theme.php:193
+msgid "Customize"
+msgstr "Настроить"
+
+#: inc/about-theme.php:199
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/about-theme.php:205
+msgid "GETPro20"
+msgstr "GETPro20"
+
+#: inc/about-theme.php:289
+msgid "View Free vs Pro Table below:"
+msgstr "Просмотрите таблицу бесплатной и платной версии ниже:"
+
+#: inc/about-theme.php:294
+msgid "Free Theme"
+msgstr "Бесплатная тема"
+
+#: inc/about-theme.php:295
+msgid "Pro Theme"
+msgstr "Платная тема"
+
+#: inc/about-theme.php:315
+msgid "Section Ordering"
+msgstr "Порядок разделов"
+
+#: inc/about-theme.php:320
+msgid "Multiple Sections"
+msgstr "Несколько разделов"
+
+#: inc/about-theme.php:325
+msgid "Additional Plugins"
+msgstr "Дополнительные плагины"
+
+#: inc/about-theme.php:330
+msgid "Premium Technical Support"
+msgstr "Премиальная техническая поддержка"
+
+#: inc/about-theme.php:335
+msgid "Access to Support Forums"
+msgstr "Доступ к форумам поддержки"
+
+#: inc/about-theme.php:340
+msgid "Free updates"
+msgstr "Бесплатные обновления"
+
+#: inc/about-theme.php:345
+msgid "Unlimited Domains"
+msgstr "Неограниченное кол-во доменов"
+
+#: inc/about-theme.php:350
+msgid "Responsive Design"
+msgstr "Адаптивный дизайн"
+
+#: inc/about-theme.php:355
+msgid "Live Customizer"
+msgstr "Визуальная настройка темы"
+
+#: inc/customizer.php:1647
+msgid "Click Here"
+msgstr "Нажмите здесь"
+
+#: inc/about-theme.php:192
+msgid "All Theme Options are available via Customize screen."
+msgstr "Все параметры темы доступны на экране настройки."
+
+#: inc/about-theme.php:197
+msgid "Got theme support question?"
+msgstr "Есть вопросы по поддержке темы?"
+
+#: inc/about-theme.php:300
+msgid "Theme Demo Set Up"
+msgstr "Настройка демонстрационной темы"
+
+#: inc/about-theme.php:70
+msgid "View Demo"
+msgstr "Смотреть демонстрацию"
+
+#: inc/about-theme.php:119
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Перейти в Консоль и Главная"
+
+#: inc/about-theme.php:86
+msgid "Secondary menu"
+msgstr "Дополнительное меню"
+
+#: inc/customizer.php:1646
+msgid "Theme Documentation"
+msgstr "Документация к теме"
+
+#: inc/about-theme.php:72
+msgid "Theme Instructions"
+msgstr "Инструкции для темы"
+
+#: inc/about-theme.php:76
+msgid "Upgrade to pro"
+msgstr "Обновить до Pro"
+
+#: inc/about-theme.php:92
+msgid "Compare free Vs Pro"
+msgstr "Сравнить бесплатную версию с платной"
+
+#: inc/about-theme.php:119
+msgid "Go to Dashboard"
+msgstr "Перейти в Консоль"
+
+#: inc/about-theme.php:191
+msgid "Theme Customizer"
+msgstr "Настройка темы"
+
+#: inc/about-theme.php:198
+msgid "Get genuine support from genuine people. Whether it's customization or compatibility, our seasoned developers deliver tailored solutions to your queries."
+msgstr "Получите настоящую поддержку от настоящих людей. Будь то настройка или совместимость, наши опытные разработчики предлагают индивидуальные решения для ваших запросов."
+
+#: inc/about-theme.php:203
+msgid "Upgrade To Premium With Straight 20% OFF."
+msgstr "Обновить до премиум со скидкой 20%."
+
+#: inc/about-theme.php:204
+msgid "Get our amazing WordPress theme with exclusive 20% off use the coupon"
+msgstr "Получите нашу замечательную тему WordPress с эксклюзивной скидкой 20%, используя купон"
+
+#: inc/about-theme.php:221
+msgid "View changelog below:"
+msgstr "Ознакомьтесь с журналом изменений:"
+
+#: inc/about-theme.php:305
+msgid "Additional Templates, Color options and Fonts"
+msgstr "Дополнительные шаблоны, опции цвета и шрифты"
+
+#: inc/about-theme.php:310
+msgid "Included Demo Content"
+msgstr "Включенный демо-контент"
+
+#: inc/customizer.php:1224
+msgid "Scroll to top Position"
+msgstr "Прокрутить до верхней позиции"
+
+#: inc/customizer.php:1225
+msgid "This option work for scroll to top"
+msgstr "Эта опция работает для прокрутки вверх"
+
+#: inc/customizer.php:1230
+msgid "Center"
+msgstr "По центру"
+
+#: inc/customizer.php:1143 inc/customizer.php:1200 inc/customizer.php:1268
+msgid "Show / Hide Return to header"
+msgstr "Вернуться к заголовку: показать/скрыть"
+
+#: inc/customizer.php:818
+msgid "Instagram Link"
+msgstr "Ссылка на Instagram"
+
+#: template-parts/navigation/site-nav.php:21
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: template-parts/navigation/site-nav.php:24
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: template-parts/navigation/site-nav.php:34
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: inc/customizer.php:1392
+msgid "Product Per Row"
+msgstr "Товар на строку"
+
+#: inc/customizer.php:1401
+msgid "Product Per Page"
+msgstr "Товар на страницу"
+
+#. translators: %s: Post editor URL.
+#: template-parts/post/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%s\">Начните здесь</a>."
+
+#: inc/customizer.php:1438
+msgid "Show / Hide Product page sidebar"
+msgstr "Область виджетов страницы товара: показать/скрыть"
+
+#: inc/customizer.php:1411
+msgid "Show / Hide Shop page sidebar"
+msgstr "Область виджетов страницы магазина: показать/скрыть"
+
+#: inc/customizer.php:1381
+msgid "Different Line"
+msgstr "Другая строка"
+
+#: inc/customizer.php:1377
+msgid "Logo Layout Settings"
+msgstr "Настройки макета логотипа"
+
+#: inc/customizer.php:1378
+msgid "Here you have two options 1. Logo and Site tite in differnt line. 2. Logo and Site title in same line."
+msgstr "Здесь у вас есть два варианта: 1. Логотип и название сайта в разных строках. 2. Логотип и название сайта в одной строке."
+
+#: inc/customizer.php:1382
+msgid "Same Line"
+msgstr "Та же строка"
+
+#: inc/customizer.php:1249
+msgid "Show / Hide Site Title"
+msgstr "Название сайта: показать/скрыть"
+
+#: inc/customizer.php:368
+msgid "Edit Button Text"
+msgstr "Изменить текст кнопки"
+
+#: inc/customizer.php:353
+msgid "Edit Excerpt Limit"
+msgstr "Изменить размер отрывка"
+
+#: inc/customizer.php:421
+msgid "Show / Hide Read More Button"
+msgstr "Кнопка Читать далее: показать/скрыть"
+
+#: inc/customizer.php:250
+msgid "TP Color Option"
+msgstr "Опция цвета"
+
+#: inc/customizer.php:324
+msgid "TP Blog Option"
+msgstr "Опция блога"
+
+#: inc/customizer.php:433
+msgid "Show / Hide Tags Option"
+msgstr "Опция меток: показать/скрыть"
+
+#: inc/customizer.php:36
+msgid "TP General Option"
+msgstr "Общие опции"
+
+#: inc/customizer.php:445
+msgid "Show / Hide Category Option"
+msgstr "Опция рубрики: показать/скрыть"
+
+#: inc/customizer.php:46
+msgid "Body Layout Setting"
+msgstr "Настройка макета основной части"
+
+#: inc/customizer.php:51
+msgid "Container"
+msgstr "Контейнер"
+
+#: inc/customizer.php:52
+msgid "Container Fluid"
+msgstr "Растягивающийся контейнер"
+
+#: inc/customizer.php:47
+msgid "This option work for complete body, if you want to set the complete website in container."
+msgstr "Эта опция работает для всей основной части, если вы хотите поместить весь веб-сайт в контейнер."
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: inc/customizer.php:271
+msgid "It will change the complete theme hover link color in one click."
+msgstr "Он изменит цвет ссылки при наведении на всю тему одним щелчком мыши."
+
+#: template-parts/footer/footer-widgets.php:21
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:260
+msgid "It will change the complete theme color in one click."
+msgstr "Это полностью изменит цвет темы, за один клик."
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: archive.php:59 archive.php:97 archive.php:134 archive.php:171
+#: archive.php:210 archive.php:249 archive.php:287 index.php:52 index.php:90
+#: index.php:127 index.php:164 index.php:203 index.php:242 index.php:280
+#: search.php:61 search.php:101 search.php:140 search.php:179 search.php:219
+#: search.php:260 search.php:298 single.php:46 single.php:71 single.php:95
+#: single.php:118
+msgid "Previous page"
+msgstr "Предыдущая страница"
+
+#: archive.php:60 archive.php:98 archive.php:135 archive.php:172
+#: archive.php:211 archive.php:250 archive.php:288 index.php:53 index.php:91
+#: index.php:128 index.php:165 index.php:204 index.php:243 index.php:281
+#: search.php:62 search.php:102 search.php:141 search.php:180 search.php:220
+#: search.php:261 search.php:299 single.php:47 single.php:72 single.php:96
+#: single.php:119
+msgid "Next page"
+msgstr "Следующая страница"
+
+#: archive.php:61 archive.php:99 archive.php:136 archive.php:173
+#: archive.php:212 archive.php:251 archive.php:289 index.php:54 index.php:92
+#: index.php:129 index.php:166 index.php:205 index.php:244 index.php:282
+#: search.php:63 search.php:103 search.php:142 search.php:181 search.php:221
+#: search.php:262 search.php:300 single.php:48 single.php:73 single.php:97
+#: single.php:120
+msgid "Page"
+msgstr "Страница"
+
+#: searchform.php:15
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/customizer.php:31 inc/customizer.php:1461
+msgid "Description of what this panel does."
+msgstr "Описание того, что делает эта панель."
+
+#: inc/customizer.php:68 inc/customizer.php:88 inc/customizer.php:105
+#: inc/customizer.php:1229 inc/customizer.php:1427
+msgid "Left"
+msgstr "Слева"
+
+#: inc/customizer.php:69 inc/customizer.php:89 inc/customizer.php:106
+#: inc/customizer.php:1228 inc/customizer.php:1428
+msgid "Right"
+msgstr "Справа"
+
+#: inc/customizer.php:70
+msgid "Three Columns"
+msgstr "Три столбца"
+
+#: inc/customizer.php:71
+msgid "Four Columns"
+msgstr "Четыре столбца"
+
+#: inc/customizer.php:72
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/customizer.php:101
+msgid "This option work for pages."
+msgstr "Эта опция работает для страниц."
+
+#: inc/customizer.php:604
+msgid "Contact Details"
+msgstr "Контактная информация"
+
+#: inc/customizer.php:727
+msgid "Social Media Links"
+msgstr "Ссылки на соцсети"
+
+#: inc/customizer.php:1072
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: woocommerce/checkout/form-checkout.php:54
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: functions.php:27
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: functions.php:190 sidebar.php:9
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:200
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:210
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:220
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:230
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:240
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:250
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: template-parts/post/single-post.php:49
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">Опубликовано в</span><span class=\"post-title\">%title</span>"
+
+#: template-parts/post/single-post.php:56
+msgid "Previous:"
+msgstr "Предыдущая:"
+
+#: inc/customizer.php:1499 search.php:25
+#: template-parts/post/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/home/blog.php:79 template-parts/home/blog.php:117
+#: template-parts/home/slider.php:42
+msgid "READ MORE"
+msgstr "ЧИТАТЬ ДАЛЕЕ"
+
+#. translators: %s: search term
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: header.php:14
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: inc/customizer.php:648
+msgid "Add Timming"
+msgstr "Добавить время"
+
+#: inc/customizer.php:699
+msgid "Add Text"
+msgstr "Добавить текст"
+
+#: inc/customizer.php:920
+msgid "Slider Settings"
+msgstr "Настройки слайдера"
+
+#: inc/customizer.php:984
+msgid "Blog Section"
+msgstr "Раздел блога"
+
+#: inc/customizer.php:1023 inc/customizer.php:1033 inc/customizer.php:1043
+msgid "Select post"
+msgstr "Выбрать запись"
+
+#: inc/customizer.php:1545
+msgid "Travelling Pro Theme"
+msgstr "Тема Travelling Pro"
+
+#: functions.php:504
+msgid "Travelling WordPress Theme"
+msgstr "Тема WordPress для путешествий"
+
+#: inc/customizer.php:50 inc/customizer.php:67 inc/customizer.php:87
+#: inc/customizer.php:104
+msgid "Full"
+msgstr "По ширине"
+
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ответа на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ответов на &ldquo;%2$s&rdquo;"
+
+#: inc/customizer.php:1062
+msgid "Add copyright text."
+msgstr "Добавить текст авторского права."
+
+#: inc/customizer.php:709
+msgid "Add Phone Number"
+msgstr "Добавить номер телефона"
+
+#: functions.php:202
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Добавить здесь виджеты, которые будут появляться в области виджетов страниц."
+
+#: inc/customizer.php:605
+msgid "Add your contact details"
+msgstr "Добавить свои контактные данные"
+
+#: template-parts/post/content-audio.php:55
+#: template-parts/post/content-audio.php:121
+#: template-parts/post/content-audio.php:165
+#: template-parts/post/content-gallery.php:52
+#: template-parts/post/content-gallery.php:124
+#: template-parts/post/content-gallery.php:168
+#: template-parts/post/content-grid.php:37
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-image.php:118
+#: template-parts/post/content-image.php:162
+#: template-parts/post/content-video.php:56
+#: template-parts/post/content-video.php:122
+#: template-parts/post/content-video.php:166 template-parts/post/content.php:42
+#: template-parts/post/content.php:98 template-parts/post/content.php:142
+#: template-parts/post/content.php:189 template-parts/post/single-post.php:19
+msgid "% Comments"
+msgstr "Комментарии %"
+
+#: template-parts/post/content-audio.php:55
+#: template-parts/post/content-audio.php:121
+#: template-parts/post/content-audio.php:165
+#: template-parts/post/content-gallery.php:52
+#: template-parts/post/content-gallery.php:124
+#: template-parts/post/content-gallery.php:168
+#: template-parts/post/content-grid.php:37
+#: template-parts/post/content-image.php:49
+#: template-parts/post/content-image.php:118
+#: template-parts/post/content-image.php:162
+#: template-parts/post/content-video.php:56
+#: template-parts/post/content-video.php:122
+#: template-parts/post/content-video.php:166 template-parts/post/content.php:42
+#: template-parts/post/content.php:98 template-parts/post/content.php:142
+#: template-parts/post/content.php:189 template-parts/post/single-post.php:19
+msgid "0 Comments"
+msgstr "Нет комментариев"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#: inc/customizer.php:100
+msgid "Page Sidebar Position"
+msgstr "Позиция области виджетов страницы"
+
+#: page.php:40 page.php:61 page.php:81
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск&hellip;"
+
+#: inc/customizer.php:946
+msgid "Select Slide Image Page"
+msgstr "Выбрать страницу с изображением слайда"
+
+#: inc/customizer.php:930
+msgid "Show / Hide slider"
+msgstr "Слайдер: показать/скрыть"
+
+#: inc/customizer.php:728
+msgid "Add your Social Links"
+msgstr "Добавить свои ссылки на соцсети"
+
+#: inc/customizer.php:1006
+msgid "Blog Title"
+msgstr "Заголовок блога"
+
+#: functions.php:192 functions.php:212
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: inc/customizer.php:750
+msgid "Facebook Link"
+msgstr "Ссылка на Facebook"
+
+#: inc/customizer.php:1061
+msgid "Footer Text"
+msgstr "Текст в подвале"
+
+#: template-parts/post/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Кажется, мы не можем найти то, что вы ищите. Возможно, поможет поиск."
+
+#: inc/customizer.php:886
+msgid "Pinterest Link"
+msgstr "Ссылка на Pinterest"
+
+#: inc/customizer.php:784
+msgid "Twitter Link"
+msgstr "Ссылка на Twitter"
+
+#: inc/customizer.php:852
+msgid "YouTube Link"
+msgstr "Ссылка на YouTube"
+
+#: inc/customizer.php:364 template-parts/post/content-audio.php:74
+#: template-parts/post/content-audio.php:140
+#: template-parts/post/content-audio.php:184
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-gallery.php:143
+#: template-parts/post/content-gallery.php:187
+#: template-parts/post/content-grid.php:56
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-image.php:137
+#: template-parts/post/content-image.php:181
+#: template-parts/post/content-video.php:75
+#: template-parts/post/content-video.php:141
+#: template-parts/post/content-video.php:185 template-parts/post/content.php:61
+#: template-parts/post/content.php:117 template-parts/post/content.php:161
+#: template-parts/post/content.php:208 template-parts/post/related-post.php:41
+msgid "Read More"
+msgstr "Читать далее"
+
+#: inc/customizer.php:1633
+msgid "Upgrade Pro"
+msgstr "Обновить до Pro"
+
+#: inc/customizer.php:1509 search.php:50 search.php:90 search.php:129
+#: search.php:168 search.php:209 search.php:249
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "По вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/post/single-post.php:54
+msgid "Next:"
+msgstr "Следующая:"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему, чтобы оформить заказ."
+
+#: 404.php:17 inc/customizer.php:1482
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, что ничего не было найдено в этом месте. Может, попробовать поиск?"
+
+#: comments.php:62 template-parts/home/slider.php:56
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: comments.php:63 template-parts/home/slider.php:60
+msgid "Next"
+msgstr "Следующий"
+
+#: functions.php:222 functions.php:232 functions.php:242 functions.php:252
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале сайта."
+
+#: inc/customizer.php:678
+msgid "Add Mail Address"
+msgstr "Добавить email-адрес"
+
+#: template-parts/header/top-bar.php:34
+msgid "FOLLOW US:"
+msgstr "ПОДПИШИТЕСЬ НА НАС:"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"

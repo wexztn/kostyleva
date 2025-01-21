@@ -1,0 +1,935 @@
+# Translation of Themes - Traveller Agency in Russian
+# This file is distributed under the same license as the Themes - Traveller Agency package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-20 07:45:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Traveller Agency\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Traveller Agency"
+msgstr "Traveller Agency"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Traveller Agency Responsive Travel Management Software for Travel and Tourism Agency Websites. Multipurpose theme design for travel, honeymoon booking, family vacations, vacation planning, adventure, blog, blog theme blogger, personal, private blog, responsive, and tourism. You can have a blog, gallery, and fully responsive design. There are unlimited layout options, a press forum, tons of short codes, and a Mega Menu. This package type runs on Woo commerce and allows you to display all package packages for your customers Customizing, managing, and searching for hotels, places, and a gallery with powerful custom post types for Hotels, Places, and galleries is easy. We plan to add more modules for booking, listing, and promoting. This theme is packed with features and can be used to build almost any kind of Travel business. You can sign in using the following credentials. Take a look inside to see how users will view your website. Explore all the functionalities and options, including adding new tours, editing and managing your account, and many more. It is a beautifully designed theme that catches the user's attention at first glance. This theme is intuitive thanks to fresh colors and appropriate typography, making it even more effective. This theme have a modern and contemporary outlook that encourages visitors to surf and explore. The inner pages, which are well-designed and spacious, provide complete information about the business and product."
+msgstr "Traveller Agency Responsive Travel Management Software для сайтов туристических агентств. Многоцелевой дизайн темы для путешествий, бронирования медового месяца, семейного отдыха, планирования отпуска, приключений, блога, темы блога блоггера, личного, частного блога, отзывчивый, и туризма. Имеется блог, галерея, полностью отзывчивый дизайн. Имеются неограниченные возможности верстки, пресс-форум, множество шорткодов и мегаменю. Этот тип пакета работает на Woo commerce и позволяет отображать все пакеты для ваших клиентов Настройка, управление и поиск отелей, мест и галереи с мощными пользовательскими типами постов для отелей, мест и галерей очень просты. Мы планируем добавить дополнительные модули для бронирования, размещения и продвижения. Эта тема обладает широкими возможностями и может быть использована для создания практически любого вида туристического бизнеса. Вы можете войти в систему, используя следующие учетные данные. Загляните внутрь, чтобы увидеть, как пользователи будут воспринимать ваш сайт. Изучите все функциональные возможности и опции, включая добавление новых туров, редактирование и управление учетной записью и многое другое. Это красиво оформленная тема, которая привлекает внимание пользователя с первого взгляда. Эта тема интуитивно понятна благодаря свежим цветам и подходящей типографике, что делает ее еще более эффективной. Эта тема имеет современный вид, который побуждает посетителей к серфингу и исследованию. Внутренние страницы, хорошо оформленные и просторные, предоставляют полную информацию о бизнесе и продукте."
+
+#: inc/customizer.php:588
+msgid "Check this box to enable post thumbnail on single post."
+msgstr "Отметьте, чтобы включить миниатюру записи в отдельной записи."
+
+#: inc/customizer.php:642
+msgid "Check this box to enable title on single post."
+msgstr "Отметьте, чтобы включить заголовок для отдельной записи."
+
+#: inc/customizer.php:586
+msgid "Enable Single Post Thumbnail"
+msgstr "Включить миниатюру отдельной записи"
+
+#: inc/customizer.php:640
+msgid "Enable Single Post Title"
+msgstr "Включить заголовок отдельной записи"
+
+#: inc/customizer.php:452
+msgid "Post Settings"
+msgstr "Настройки записи"
+
+#: inc/customizer.php:629
+msgid "Enable Single Post Meta"
+msgstr "Включить метаданные для отдельной записи"
+
+#: inc/customizer.php:631
+msgid "Check this box to enable single post meta such as post date, author, category, comment etc."
+msgstr "Отметьте, чтобы включить метаданные отдельной записи, такие как дата записи, автор, рубрика, комментарий и т. д."
+
+#: inc/customizer.php:795
+msgid "Show Slider"
+msgstr "Показывать слайдер"
+
+#: functions.php:155
+msgid "Footer Column 1"
+msgstr "Столбец 1 подвала"
+
+#: functions.php:165
+msgid "Footer Column 2"
+msgstr "Столбец 2 подвала"
+
+#: functions.php:175
+msgid "Footer Column 3"
+msgstr "Столбец 3 подвала"
+
+#: inc/customizer.php:190
+msgid "Preloader Background Color"
+msgstr "Цвет фона анимации загрузки"
+
+#: inc/customizer.php:200
+msgid "Preloader First Dot Color"
+msgstr "Цвет первой точки загрузки"
+
+#: inc/customizer.php:210
+msgid "Preloader Second Dot Color"
+msgstr "Цвет второй точки загрузки"
+
+#: inc/customizer.php:293
+msgid "Show Sticky Header"
+msgstr "Показать прикрепленный заголовок"
+
+#: inc/customizer.php:179
+msgid "Show Theme Preloader"
+msgstr "Показать анимацию загрузки темы"
+
+#: inc/customizer.php:148 inc/customizer.php:445 inc/customizer.php:712
+#: inc/customizer.php:752 inc/customizer.php:780 inc/customizer.php:903
+#: inc/customizer.php:978 inc/customizer.php:1114
+msgid "Customizer Options"
+msgstr "Настройка темы оформления"
+
+#: inc/customizer.php:20
+msgid "Buy Traveller Agency Pro"
+msgstr "Купить Traveller Agency Pro"
+
+#: inc/customizer.php:117
+msgid "Enable Disable Tagline"
+msgstr "Краткое описание вкл/откл"
+
+#: inc/customizer.php:106
+msgid "Enable Disable Title"
+msgstr "Заголовок вкл/откл"
+
+#: inc/customizer.php:155
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer.php:220
+msgid "Show Theme Scroll To Top"
+msgstr "Показать тему прокрутить вверх"
+
+#. translators: 1: Theme name,
+#: footer.php:87
+msgid " %1$s "
+msgstr " %1$s "
+
+#: functions.php:483
+msgid "Basic Version"
+msgstr "Базовая версия"
+
+#: functions.php:472
+msgid "Checkout Documentation"
+msgstr "Документация по оформлению заказа"
+
+#: functions.php:440
+msgid "Checkout Premium"
+msgstr "Оформить заказ Премиум"
+
+#: functions.php:431 functions.php:434
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: functions.php:495
+msgid "Custom Navigation Logo Or Text"
+msgstr "Пользовательский логотип или текст навигации"
+
+#: functions.php:542
+msgid "Custom Text On Header Image"
+msgstr "Пользовательский текст на изображении заголовка"
+
+#: functions.php:592
+msgid "Customize Background Color"
+msgstr "Настройка цвета фона"
+
+#: functions.php:577
+msgid "Customize Blog Feed Color"
+msgstr "Настройка цвета фида блога"
+
+#: functions.php:582
+msgid "Customize Footer Color"
+msgstr "Настройка цвета подвала"
+
+#: functions.php:567
+msgid "Customize Navigation Color"
+msgstr "Настройка цвета навигации"
+
+#: functions.php:572
+msgid "Customize Post/Page Color"
+msgstr "Настройка цвета записи/страницы"
+
+#: functions.php:587
+msgid "Customize Sidebar Color"
+msgstr "Настройка цвета боковой панели"
+
+#: functions.php:562
+msgid "Customize Upper Widgets Colors"
+msgstr "Настройка цветов верхних виджетов"
+
+#: functions.php:522
+msgid "Easy Google Fonts"
+msgstr "Easy Google Fonts"
+
+#: functions.php:469
+msgid "Free Vs Premium"
+msgstr "Free против Premium"
+
+#: functions.php:547
+msgid "Full Width (Hide Sidebar)"
+msgstr "Полная ширина (скрыть боковую панель)"
+
+#: functions.php:511
+msgid "Fully SEO Optimized"
+msgstr "Полностью SEO-оптимизированная"
+
+#: functions.php:443
+msgid "Get Premium"
+msgstr "Получить Премиум"
+
+#: functions.php:605
+msgid "Go Premium"
+msgstr "Перейти на Премиум"
+
+#: functions.php:490
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: functions.php:500
+msgid "Hide Logo Text"
+msgstr "Скрыть текст логотипа"
+
+#: functions.php:597
+msgid "Importable Demo Content\t"
+msgstr "Импортируемый демо-контент"
+
+#: functions.php:532
+msgid "Only Show Header Image On Front Page"
+msgstr "Показывать только изображение заголовка на главной странице"
+
+#: functions.php:552
+msgid "Only Show Upper Widgets On Front Page"
+msgstr "Показывать только верхние виджеты на главной странице"
+
+#: functions.php:441
+msgid "Our premium theme comes with extended features like demo content import , responsive layouts etc."
+msgstr "Наша тема премиум-класса поставляется с расширенными функциями, такими как импорт демо-контента, адаптивные макеты и т. д."
+
+#: functions.php:527
+msgid "Pagespeed Plugin"
+msgstr "Плагин скорости страницы"
+
+#: functions.php:506
+msgid "Premium Support"
+msgstr "Премиум поддержка"
+
+#: functions.php:484
+msgid "Premium Version"
+msgstr "Премиум версия"
+
+#: functions.php:516
+msgid "Recent Posts Widget"
+msgstr "Виджет последних записей"
+
+#: functions.php:557
+msgid "Replace Copyright Text"
+msgstr "Заменить текст авторского права"
+
+#: functions.php:449 functions.php:452
+msgid "Review"
+msgstr "Отзыв"
+
+#: functions.php:537
+msgid "Show Header Everywhere"
+msgstr "Показывать заголовок везде"
+
+#: functions.php:482
+msgid "Theme Feature"
+msgstr "Функции темы"
+
+#: functions.php:416
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: functions.php:475
+msgid "View Theme Demo"
+msgstr "Посмотреть демонстрацию темы"
+
+#: functions.php:426
+msgid "Welcome To "
+msgstr "Добро пожаловать в "
+
+#: functions.php:393
+msgid "https://wordpress.org/support/theme/traveller-agency"
+msgstr "https://wordpress.org/support/theme/traveller-agency"
+
+#: functions.php:396
+msgid "https://wordpress.org/support/theme/traveller-agency/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/traveller-agency/reviews/#new-post"
+
+#: functions.php:432
+msgid "Thank you for trying Traveller Agency , feel free to contact us for any support regarding our theme."
+msgstr "Спасибо за попытку использования Traveller Agency, не стесняйтесь обращаться к нам за любой поддержкой, касающейся нашей темы."
+
+#: functions.php:450
+msgid "If You love Traveller Agency theme then we would appreciate your review about our theme."
+msgstr "Если вам нравится тема Traveller Agency, мы будем признательны за ваш отзыв о нашей теме."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:37
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий для &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария для &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев для &ldquo;%2$s&rdquo;"
+
+#. translators: %s: post date
+#. translators: %s: post author
+#: inc/template-tags.php:27 inc/template-tags.php:33
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Опубликовано</span> %s"
+
+#: functions.php:127
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: template-parts/content-audio.php:43 template-parts/content-gallery.php:31
+#: template-parts/content-image.php:28 template-parts/content-search.php:15
+#: template-parts/content-single.php:30 template-parts/content-video.php:42
+#: template-parts/content.php:28
+msgid "BY"
+msgstr "ОТ"
+
+#: comments.php:53 comments.php:67
+msgid "Comment navigation"
+msgstr "Навигация по комментарию"
+
+#: comments.php:80
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:40
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Читать далее<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:142 inc/template-tags.php:162
+msgid "Edit"
+msgstr "Изменить"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:44
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer.php:985
+msgid "Footer"
+msgstr "Подвал"
+
+#: inc/customizer.php:33
+msgid "GET PREMIUM"
+msgstr "ПОЛУЧИТЬ ПРЕМИУМ"
+
+#: inc/customizer.php:759
+msgid "Header Option"
+msgstr "Настройки заголовка"
+
+#. Template Name of the theme
+msgid "Home Template"
+msgstr "Шаблон главной страницы"
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "По данному адресу ничего не найдено. Попробуйте воспользоваться одной из ссылок ниже или поиском?"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже мы не можем найти то, что вы просите. Попробуйте воспользоваться поиском."
+
+#. translators: %s: post title
+#: inc/template-tags.php:42
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Добавить комментарий<span class=\"screen-reader-text\"> к  %s</span>"
+
+#. Template Name of the theme
+#: inc/customizer.php:348 inc/customizer.php:374
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: comments.php:56 comments.php:70
+msgid "Newer Comments"
+msgstr "Новые комментарии"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: comments.php:55 comments.php:69
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. translators: %s: post title
+#: comments.php:32
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: template-parts/content-page.php:31 template-parts/content-single.php:51
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: inc/customizer.php:767
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: inc/template-tags.php:141
+msgid "Pingback:"
+msgstr "Уведомление:"
+
+#: functions.php:63
+msgid "Primary"
+msgstr "Основной"
+
+#. translators: %s: CMS name, i.e. WordPress.
+#: footer.php:79
+msgid "Proudly powered by %s"
+msgstr "На платформе %s"
+
+#: template-parts/content-audio.php:55 template-parts/content-gallery.php:43
+#: template-parts/content-image.php:40 template-parts/content-search.php:21
+#: template-parts/content-video.php:54 template-parts/content.php:40
+msgid "Read More"
+msgstr "Читайте далее"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните здесь!</a>."
+
+#: inc/customizer.php:1077
+msgid "Replace the footer text"
+msgstr "Заменить текст подвала"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#. translators: %s: search query.
+#: search.php:21
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s"
+
+#: inc/customizer.php:828
+msgid "Select Slide Page"
+msgstr "Выберите страницу слайдера"
+
+#: functions.php:125
+msgid "Sidebar"
+msgstr "Область виджетов"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: footer.php:105
+msgid "TOP"
+msgstr "ВЕРХ"
+
+#: template-parts/navigation/nav.php:14
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: woocommerce/checkout/form-checkout.php:26
+msgid "You must be logged in to checkout."
+msgstr "Вы должный войти на сайт, чтобы совершить покупку."
+
+#: inc/template-tags.php:167
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает проверки."
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: inc/customizer.php:879
+msgid "Email Text"
+msgstr "Текст письма"
+
+#: inc/customizer.php:787
+msgid "Slider Option"
+msgstr "Вариант слайдера"
+
+#: inc/customizer.php:890
+msgid "Email"
+msgstr "Email"
+
+#: functions.php:64
+msgid "Footer Menu"
+msgstr "Нижнее меню"
+
+#: inc/customizer.php:931
+msgid "Title"
+msgstr "Заголовок"
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s был успешно установлен и активирован."
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s был успешно установлен."
+
+#. translators: 1: install status, 2: update status
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Активировать"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Активировать %2$s"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Активный"
+
+#. translators: 1: number of plugins.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Все <span class=\"count\">(%s)</span>"
+msgstr[1] "Все <span class=\"count\">(%s)</span>"
+msgstr[2] "Все <span class=\"count\">(%s)</span>"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Все процедуры установки и активации завершены."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Все установки завершены."
+
+#. translators: 1: dashboard link.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Все плагины были успешно установлены и активированы. %1$s"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Возникла ошибка при установке %1$s: <strong>%2$s</strong>."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:1121
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "и"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Доступная версия:"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Начать активацию плагина"
+msgstr[1] "Начать активацию плагинов"
+msgstr[2] "Начать активацию плагинов"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+msgstr[2] "Начать установку плагинов"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Начать обновление плагина"
+msgstr[1] "Начать обновление плагинов"
+msgstr[2] "Начать обновление плагинов"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Отклонить это уведомление"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Внешний источник"
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3509
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Скрыть детали"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Установить"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Установка %2$s"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Установка требуемых плагинов"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Установлен, но не активирован"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Установленная версия:"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка и активация плагина %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Установка плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Миним. необходимая версия:"
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Действие не требовалось. Плагин %1$s уже активен."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Сейчас нет доступных плагинов для активации."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Сейчас нет доступных плагинов для установки."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Сейчас нет доступных плагинов для обновления."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "Нет плагинов для установки, обновления или активации."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Не выбрано плагинов для активации. Действий не требуется."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Не выбрано плагинов для установки. Действий не требуется."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Не выбрано плагинов для обновления. Действий не требуется."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Не установлен"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Упс! Эта страница не найдена."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Обратитесь за помощью к администратору этого сайта."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:934
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Свяжитесь с поставщиком плагина и попросите его упаковать плагин в соответствии с рекомендациями WordPress."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Плагин"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:387
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Плагин активирован."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Активация плагина не удалась."
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Плагин не активирован. Тема требует более новую версию %s. Обновите плагин."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Предварительно упакованный"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Рекомендуется"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Обязательно"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Требуемое обновление недоступно"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Требуется обновление"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установке требуемых плагинов"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:386
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:827
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2533
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Вернуться к панели управления"
+
+#: searchform.php:12
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: searchform.php:12
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск для:"
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3509
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Показать подробности"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагинов."
+
+#: template-parts/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но по вашему запросу ничего не найдено. Пожалуйста, попробуйте поискать с другим запросом."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Источник"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Статус"
+
+#. translators: %s: version number
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:388
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Следующий плагин был успешно активирован:"
+msgstr[1] "Следующие плагина были успешно активированы:"
+msgstr[2] "Следующие плагинов были успешно активированы:"
+
+#. translators: 1: plugin name(s).
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в настоящее время неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+msgstr[2] "Следующие рекомендуемые плагины в настоящее время неактивны: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Этот требуемый плагин сейчас деактивирован: %1$s."
+msgstr[1] "Эти требуемые плагины сейчас деактивированы: %1$s."
+msgstr[2] "Эти требуемые плагины сейчас деактивированы: %1$s."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Началась установка и активация. Этот процесс может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#. translators: 1: plugin name(s).
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Этот плагин для максимальной совместимости с темой должен быть обновлен на последюю версию: %1$s."
+msgstr[1] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+msgstr[2] "Эти плагины для максимальной совместимости с темой должны быть обновлены на последюю версию: %1$s."
+
+#. translators: 1: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "Установка %1$s не удалась."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Начался процесс установки, он может занять некоторое время, особенно на медленных серверах, будьте терпеливы."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Пакет удаленного плагина состоит из нескольких файлов, но файлы не упакованы в папку."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "В пакете удаленного плагина нет папки с нужным ярлыком и переименование не помогло."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Имеются один или более требуемых или рекомендуемых плагинов для установки, обновления или активации."
+
+#. translators: 1: plugin name(s).
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Доступно обновление плагина: %1$s."
+msgstr[1] "Доступны обновления плагинов: %1$s."
+msgstr[2] "Доступны обновления плагинов: %1$s."
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Этот плагин необходимо обновить, чтобы он был совместим с вашей темой."
+
+#. translators: 1: plugin name(s).
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующих плагинов: %1$s."
+msgstr[2] "Эта тема рекомендует следующих плагинов: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующих плагинов: %1$s."
+msgstr[2] "Эта тема требует следующих плагинов: %1$s."
+
+#. translators: 1: number of plugins.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[1] "Чтобы активировать <span class=\"count\">(%s)</span>"
+msgstr[2] "Чтобы активировать <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Установить <span class=\"count\">(%s)</span>"
+msgstr[1] "Установить <span class=\"count\">(%s)</span>"
+msgstr[2] "Установить <span class=\"count\">(%s)</span>"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Тип"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "неизвестно"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Обновить"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Обновление %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[1] "Доступны обновления <span class=\"count\">(%s)</span>"
+msgstr[2] "Доступны обновления <span class=\"count\">(%s)</span>"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Рекомендуется обновление"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Требуется обновление"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Обновление плагина %1$s (%2$d/%3$d)"
+
+#. translators: %s: plugin name.
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Обновление плагина: %s"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Сообщение об обновлении от автора плагина:"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Версия"
+
+#: inc/recomended-plugins/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Репозиторий WordPress"
+
+#: inc/customizer.php:16
+msgid "Traveller Agency Pro"
+msgstr "Traveller Agency Pro"
+
+#. Template Name of the theme
+#: inc/customizer.php:349 inc/customizer.php:375
+msgid "Right Sidebar"
+msgstr "Правая область виджетов"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "TheMagnifico52"
+msgstr "TheMagnifico52"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themagnifico.net/"
+msgstr "https://www.themagnifico.net/"

@@ -1,0 +1,162 @@
+# Translation of Themes - Travel Vlogger in Russian
+# This file is distributed under the same license as the Themes - Travel Vlogger package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-02-21 10:36:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Travel Vlogger\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Travel Vlogger"
+msgstr "Travel Vlogger"
+
+#: customizer/customizer.php:94 customizer/customizer.php:168
+msgid "Show / Hide Date"
+msgstr "Дата: показать/скрыть"
+
+#. Template Name of the theme
+msgid "Custom Home Page"
+msgstr "Пользовательская главная страница"
+
+#: customizer/customizer.php:59
+msgid "Show / Hide Slider section"
+msgstr "Раздел слайдера: показать/скрыть"
+
+#: customizer/customizer.php:113
+msgid "Show / Hide section"
+msgstr "Раздел: показать/скрыть"
+
+#: template-parts/footer/site-info.php:13
+msgid "By Themespride"
+msgstr "от ThemesPride"
+
+#: functions.php:247
+msgid "Travel Vlogger WordPress Theme"
+msgstr "Тема WordPress для путешественников-блоггеров"
+
+#: comments.php:62
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: comments.php:63
+msgid "Next"
+msgstr "Следующий"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто."
+
+#: customizer/customizer.php:124
+msgid "Section Title"
+msgstr "Название раздела"
+
+#: functions.php:41
+msgid "Blog Sidebar"
+msgstr "Область виджетов блога"
+
+#: functions.php:43 functions.php:63
+msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr "Добавьте сюда виджеты для их помещения в область виджетов в записях блога и страницах архива."
+
+#: functions.php:51
+msgid "Page Sidebar"
+msgstr "Область виджетов страницы"
+
+#: functions.php:61
+msgid "Sidebar 3"
+msgstr "Область виджетов 3"
+
+#: functions.php:71
+msgid "Footer 1"
+msgstr "Подвал 1"
+
+#: functions.php:73 functions.php:83 functions.php:93 functions.php:103
+msgid "Add widgets here to appear in your footer."
+msgstr "Добавьте сюда виджеты для отображения в подвале сайта."
+
+#: functions.php:81
+msgid "Footer 2"
+msgstr "Подвал 2"
+
+#: functions.php:91
+msgid "Footer 3"
+msgstr "Подвал 3"
+
+#: functions.php:101
+msgid "Footer 4"
+msgstr "Подвал 4"
+
+#: header.php:40
+msgid "Skip to content"
+msgstr "Перейти к содержимому"
+
+#: template-parts/navigation/site-nav.php:65
+msgid "Open Button"
+msgstr "Кнопка Открыть"
+
+#: template-parts/navigation/site-nav.php:68
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: template-parts/navigation/site-nav.php:78
+msgid "Close Button"
+msgstr "Кнопка Закрыть"
+
+#: customizer/customizer.php:48
+msgid "Post Slider Settings"
+msgstr "Настройки слайдера записи"
+
+#: customizer/customizer.php:102
+msgid "Explore Destination Settings"
+msgstr "Настройки Исследовать место назначения"
+
+#: customizer/customizer.php:134
+msgid "Section Description"
+msgstr "Описание раздела"
+
+#: functions.php:192
+msgid "Travel Vlogger Pro"
+msgstr "Travel Vlogger Pro"
+
+#: header.php:14
+msgid "http://gmpg.org/xfn/11"
+msgstr "http://gmpg.org/xfn/11"
+
+#: customizer/customizer.php:84 customizer/customizer.php:158
+msgid "Select Category"
+msgstr "Выбрать рубрику"
+
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ответ на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ответа на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s ответов на &ldquo;%2$s&rdquo;"
+
+#: functions.php:53
+msgid "Add widgets here to appear in your sidebar on pages."
+msgstr "Добавить здесь виджеты, которые будут появляться в области виджетов страниц."
+
+#: customizer/customizer.php:40
+msgid "Show / Hide Search Option"
+msgstr "Опция поиска: показать/скрыть"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "ThemesPride"
+msgstr "ThemesPride"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://www.themespride.com/"
+msgstr "https://www.themespride.com/"
